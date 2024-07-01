@@ -1,0 +1,6 @@
+pyttsx3
+PyAudio
+SpeechRecognition
+Wikipedia-API
+simple-webbrowser
+pywhatkit
